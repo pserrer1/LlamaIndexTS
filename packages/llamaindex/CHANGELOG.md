@@ -1,5 +1,11 @@
 # llamaindex
 
+## 0.5.21
+
+### Patch Changes
+
+- 2411c9f: Auto-create index for MongoDB vector store (if not exists)
+
 ## 0.5.20
 
 ### Patch Changes
